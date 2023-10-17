@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "title": "University College London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1325, 51.5247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "title": "King's College London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1167, 51.5113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "title": "Imperial College London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1783, 51.4985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "title": "London School of Hygiene & Tropical Medicine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1315, 51.5221]
+      }
+    }
+  ]
+}
